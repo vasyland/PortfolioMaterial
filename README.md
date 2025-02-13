@@ -1,2 +1,5 @@
 # PortfolioMaterial
-Managing Portfolio with transactions using Angular Material with all CRUD ops
+
+1. Create a project in existing folder
+    ng new portfolio-material --directory . --skip-install
+2. ng add @angular/material
